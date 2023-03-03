@@ -1,0 +1,23 @@
+Feature: Adactin Hotel
+
+Scenario: Login Functionality
+
+Given User can be able to launch the Url
+When  User can be able to enter the username in textbox
+And   User can be able to enter the password in textbox
+Then  User can be able to click on the login button and it navigates to the search hotel
+
+
+Scenario: Search Hotel Functionality
+
+When User can be able to select the Location dropdown
+And  User can be able to select the Hotel dropdown
+And  User can be able to select the Roomtype dropdown 
+And  User can be able to select the Number of rooms dropdown
+And  User can able to clear the textbox and enter the data in Checkindate textbox
+And  User can able to clear the textbox and enter the data in Checkout textbox
+And  User can be able to select the Adults per room dropdown
+And  User can be able to select the Children per room dropdown
+Then User can be able to click the search button and it navigates to the select hotel page
+
+

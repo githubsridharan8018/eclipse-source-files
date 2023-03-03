@@ -1,0 +1,13 @@
+Feature: Adactin Hotel
+
+Scenario: Login Functionality
+
+Given User can be able to launch the Url
+When  User can be able to enter the usernamein textbox
+And   User can be able to enter the password in textbox
+Then  User can be able to click on the login button and it navigates to the search hotel
+
+
+
+
+

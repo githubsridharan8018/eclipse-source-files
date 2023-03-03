@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;My_Own&apos;" deleteContents="true" description="Delete resource &apos;My_Own&apos;" element1="/My_Own" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1674402527692"/>&#x0A;<refactoring comment="Rename resource &apos;Maven_Own&apos; to &apos;Maven_Pojo&apos;" description="Rename resource &apos;Maven_Own&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Maven_Own" name="Maven_Pojo" stamp="1674802049647" updateReferences="true"/>
+</session>

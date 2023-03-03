@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\sridh\eclipse-workspace\Adactin_Using_Pom\src\test\java\in\Adactin_Using_Pom\Runner_Class.java"/>
+			<item value="C:\Users\sridh\eclipse-workspace\Maven_Own"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.amazon.Base_Adactin"/>
+			<item value="com.svg.Cucu"/>
+			<item value="com.cucumber.cucumber_Practice"/>
+			<item value="com.nextg.Testng_Practice"/>
+			<item value="org.drivendata.Driven_Data"/>
+			<item value="com.nextgeneration.Testng_Demo"/>
+			<item value="org.datadriven.Data_Driven_Practice"/>
+			<item value="com.testng.Adactin_Two"/>
+			<item value="com.testng.Adactin_One"/>
+			<item value="com.sland.Ans"/>
+			<item value="com.sland.Cucumber_New"/>
+			<item value="com.wipro.Exam"/>
+			<item value="org.test.Testng_Adactin"/>
+		</list>
+		<list key="groupId">
+			<item value="com.amazon"/>
+			<item value="com.svg"/>
+			<item value="com.cucumber"/>
+			<item value="com.nextg"/>
+			<item value="org.drivendata"/>
+			<item value="com.nextgeneration"/>
+			<item value="org.datadriven"/>
+			<item value="com.testng"/>
+			<item value="com.sland"/>
+			<item value="com.wipro"/>
+			<item value="org.test"/>
+		</list>
+		<list key="artifactId">
+			<item value="Base_Adactin"/>
+			<item value="Cucu"/>
+			<item value="cucumber_Practice"/>
+			<item value="Testng_Practice"/>
+			<item value="Driven_Data"/>
+			<item value="Testng_Demo"/>
+			<item value="Data_Driven_Practice"/>
+			<item value="Adactin_Two"/>
+			<item value="Adactin_One"/>
+			<item value="Ans"/>
+			<item value="Cucumber_New"/>
+			<item value="Exam"/>
+			<item value="Testng_Adactin"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

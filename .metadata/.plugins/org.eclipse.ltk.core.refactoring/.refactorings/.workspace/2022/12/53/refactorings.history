@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Adaction_Using_Pom&apos; to &apos;Adactin_Using_Pom&apos;" description="Rename resource &apos;Adaction_Using_Pom&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Adaction_Using_Pom" name="Adactin_Using_Pom" stamp="1672224374516" updateReferences="true"/>
+</session>
